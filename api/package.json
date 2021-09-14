@@ -13,8 +13,8 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "start": "nodemon index.js"
+    /**
   },
   "author": "Kaleb Ugalde",
   "license": "ISC",

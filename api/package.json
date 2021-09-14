@@ -14,7 +14,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "nodemon index.js"
-    /**
+    
   },
   "author": "Kaleb Ugalde",
   "license": "ISC",
